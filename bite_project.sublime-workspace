@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"nav",
+				"nav	HTML - Navigation object (inline-block)"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"BOR",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"in",
+				"instructor"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"opt",
+				"optimizelegibility"
+			],
+			[
+				"cent",
+				"center1"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ul",
+				"ul	<ul>"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"over",
+				"overlay"
+			],
+			[
+				"content",
+				"contentsection"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"form",
+				"formresult"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"update",
+				"updateContent"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fixed",
+				"fixedWidth"
+			],
+			[
+				"con",
+				"contentsection"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"menu",
+				"menubar"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"conte",
+				"contentsection"
+			],
+			[
+				"div",
+				"divHome"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"re",
+				"background-repeat"
+			],
+			[
+				"new",
+				"newContent"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"login",
+				"loginid"
+			],
+			[
+				"no",
+				"noCity"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"aler",
+				"alert-danger"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ci",
+				"city"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bg",
+				"bgImage2"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"su",
+				"subject"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"Ge",
+				"Germany"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"mat",
+				"margin-top"
+			],
+			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"ap",
+				"appButtons"
+			],
+			[
+				"h2",
+				"h2div2"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"top",
+				"topRow"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"BAC",
+				"background-image"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"code",
+				"codeButton"
+			],
+			[
+				"Ja",
+				"Javascript"
+			],
+			[
+				"r",
+				"resultFrame"
+			],
+			[
+				"js",
+				"jsCode"
+			],
+			[
+				"css",
+				"cssCode"
+			],
+			[
+				"html",
+				"htmlCode"
+			],
+			[
+				"height",
+				"codeContainerHeight"
+			],
+			[
+				"window",
+				"windowHeight"
+			],
+			[
+				"men",
+				"menubar"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"butt",
+				"buttonDiv"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"B",
+				"border-color"
+			],
+			[
+				"for",
+				"validationForm"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"Bor",
+				"border-bottom"
+			],
+			[
+				"sec",
+				"section2"
+			],
+			[
+				"te",
+				"textarea1"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"news",
+				"newslink"
+			],
+			[
+				"cle",
+				"border-collapse"
+			],
+			[
+				"bacg",
+				"background-image"
+			],
+			[
+				"Mar",
+				"margin-left"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"sty",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Stephen Willmot/Documents/GitHub/quickstart/.git/config",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/index.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/app/main.js",
+		"/C/Users/Stephen Willmot/Documents/GitHub/quickstart/idbkupal.frj.txt",
+		"/C/Users/Stephen Willmot/Documents/GitHub/quickstart/index.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/.git/config",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-main.ts",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-app.component.ts",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/3-index.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-app.module.ts",
+		"/C/Users/Stephen Willmot/Documents/GitHub/quickstart/styles.css",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-index.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-app.component.ts",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-app.module.ts",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-main.ts",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/TEMP/app.component.ts",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/10-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-index.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/6-index.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/11-mainjs.js",
+		"/C/Users/Stephen Willmot/Documents/Web_Development/CV_Site/public_html/js/mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/5-index.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/7-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/9-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/8-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/4-index.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/6-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/5-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/4-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/3-mainjs.js",
+		"/C/Users/Stephen Willmot/Desktop/Yingshi_lighting_details.txt",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/3-index.php",
+		"/C/Users/Stephen Willmot/Desktop/websites.txt",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/index.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-mainjs.min.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-mainstyle.css",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/3-mainjs.min.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-mainjs.min.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-mainstyle.css",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/index.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-mainstyle.min.css",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/assets/css/custom.css",
+		"/C/Users/Stephen Willmot/Documents/Web_Development/Viral_Food/Buisness_Plan",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_wordpress-4.6.1.zip/wordpress/wp-content/themes/twentyfourteen/single.php",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/wordpress/wp-content/themes/bootsrap2wordpress/template-parts/content-page.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/content-single.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/single.php",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/wordpress/wp-content/themes/bootsrap2wordpress/content-single.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/style.css",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/page-fullwidth.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/404.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_B2W-Final-Course-Files (1).zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/page-home.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_B2W-Final-Course-Files (1).zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/content-instructor.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_B2W-Final-Course-Files (1).zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/content-featurette.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/page-resources.php",
+		"/C/Users/Stephen Willmot/Documents/Web_Development/C - Final Static Website/B2W - Static/blog.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/functions.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_wordpress-4.6.1.zip/wordpress/wp-content/themes/twentyfifteen/single.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/content.php",
+		"/C/Users/Stephen Willmot/Documents/Web_Development/C - Final Static Website/B2W - Static/post.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_B2W-Final-Course-Files (1).zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/content-coursefeatures.php",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/wordpress/wp-config-sample.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/header.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_bootsrap2wordpress.zip/bootsrap2wordpress/index.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/E - Final WordPress Theme/Bootstrap2WordPress/bootstrap2wordpress/page-home.php",
+		"/C/Users/Stephen Willmot/Documents/Web_Development/C - Final Static Website/B2W - Static/assets/css/custom.css",
+		"/C/Users/Stephen Willmot/Documents/Web_Development/C - Final Static Website/B2W - Static/contact.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/new_index.php",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/index.php",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/index.html",
+		"/C/Users/Stephen Willmot/Documents/Web_Development/C - Final Static Website/B2W - Static/index.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/assets/js/main.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/C - Final Static Website/B2W - Static/assets/css/custom.css",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/assets/index.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp2_B2W-Final-Course-Files.zip/B2W Final Course Files/C - Final Static Website/B2W - Static/index.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/assets/index.html.txt",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/assets/js/npm.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_bootstrap-3.3.6.zip/bootstrap-3.3.6-dist/js/npm.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-contact_form.min.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/sass/main.scss",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/config.xml",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/sass/main.scss.txt",
+		"/C/Users/Stephen Willmot/Desktop/Minified_Content/html/1-contact_form.min.html",
+		"/C/Users/Stephen Willmot/Desktop/Minified_Content/html/index.min.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-contact_form.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_optimized_contents (4).zip/js/mainjs.js",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/www/js/main.js",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/www/css/app.css",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/www/index.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/js/mainjs.js",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/www/css/main.css",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/www/appjs/index.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_appjs-v3.zip/appjs/index.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-weather_scraper.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/3-contact_form.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/doodle_a_day/Doodle A Day/www/index.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Doodle-A-Day/README.md",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-mailer.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-contact_form.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_PHP_AJAX_Contact_Form_With_reCaptcha_Download.zip/PHP_AJAX_Contact_Form_With_reCaptcha_Download/contact-form.html",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-form.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/3-mailer.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/Temp1_PHP_AJAX_Contact_Form_With_reCaptcha_Download.zip/PHP_AJAX_Contact_Form_With_reCaptcha_Download/mailer.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-index.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/2-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-mailer.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-form.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-mainjs.js",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-index.php",
+		"/C/Users/Stephen Willmot/AppData/Local/Temp/1-npm.js",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/css/mainstyle.css",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/form.php",
+		"/C/Users/Stephen Willmot/.vagrant.d/insecure_private_key",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/private_key",
+		"/C/Users/Stephen Willmot/.vagrant.d/setup_version",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/insecure_private_key",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/Vagrantfile",
+		"/C/Users/Stephen Willmot/.vagrant.d/boxes/bento-VAGRANTSLASH-centos-7.2/2.2.9/virtualbox/Vagrantfile",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/id",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/README.md",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.gitignore",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/package.json",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/vagrant/.npmrc",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/vagrant/.bashrc",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/public/index.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/action_set_name",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/creator_uid",
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/index_uuid"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arset=utf-8\"http-equiv=C",
+			"div class=divider",
+			"class=courseLogos",
+			"class=cvHeadings",
+			"class=cvSection",
+			"class=webImage",
+			"class=webImagetext",
+			"cm",
+			"lead",
+			"contact_form",
+			"codepla",
+			"img",
+			"halflings",
+			"{\n",
+			"home",
+			"@media (min-width: 768px) {\n  .nav-tabs.nav-justified > li {",
+			"@media (min-width: ",
+			"  @media (max-width: 992px) {\n  .navbar-header {\n      float: none;\n  }\n  .navbar-left,.navbar-right {\n      float: none !important;\n  }\n  .navbar-toggle {\n      display: block;\n  }\n  .navbar-collapse {\n      border-top: 1px solid transparent;\n      box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);\n  }\n  .navbar-fixed-top {\n      top: 0;\n      border-width: 0 0 1px;\n  }\n  .navbar-collapse.collapse {\n      display: none!important;\n  }\n  .navbar-nav {\n      float: none!important;\n      margin-top: 7.5px;\n  }\n  .navbar-nav>li {\n      float: none;\n  }\n  .navbar-nav>li>a {\n      padding-top: 10px;\n      padding-bottom: 10px;\n  }\n  .collapse.in{\n      display:block !important;\n  }\n@media (min-width: 992px) {\n     .navbar-header {\n      float: left;\n     }\n   }",
+			".navbar-collapse.out",
+			"collapse",
+			".navbar-collapse.in",
+			".navbar-collapse",
+			"#menu1",
+			"menu1",
+			"alert",
+			"bs-example-navbar-collapse-1",
+			"input",
+			"$(\".contentContainer\").css(\"min-height\",$(window).height());",
+			"br",
+			"                    <h1 class=\"header text-center\">Weather Forecast</h1>",
+			"<form>",
+			"form",
+			";\n",
+			"9648eed0cb882b352e040d0d105db3c312b16d5bdb3991c881eb87f053082c26",
+			"html",
+			"=//",
+			"site"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
