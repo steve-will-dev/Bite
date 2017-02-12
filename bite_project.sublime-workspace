@@ -491,6 +491,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "node_modules/@angular/core/index.js",
+			"settings":
+			{
+				"buffer_size": 2500,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -524,8 +532,15 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Stephen Willmot/Documents/GitHub/quickstart/.git/config",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/node_modules/bootstrap/Gruntfile.js",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/node_modules/bootstrap/README.md",
+		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/index.php",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/node_modules/@angular/http/README.md",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/styles.css",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/app/app.component.ts",
 		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/index.html",
+		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/app/app.component.js",
+		"/C/Users/Stephen Willmot/Documents/GitHub/quickstart/.git/config",
 		"/C/Users/Stephen Willmot/Documents/GitHub/Bite/app/main.js",
 		"/C/Users/Stephen Willmot/Documents/GitHub/quickstart/idbkupal.frj.txt",
 		"/C/Users/Stephen Willmot/Documents/GitHub/quickstart/index.html",
@@ -592,7 +607,6 @@
 		"/C/Users/Stephen Willmot/Documents/Web_Development/C - Final Static Website/B2W - Static/assets/css/custom.css",
 		"/C/Users/Stephen Willmot/Documents/Web_Development/C - Final Static Website/B2W - Static/contact.html",
 		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/new_index.php",
-		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/index.php",
 		"/C/Users/Stephen Willmot/Documents/GitHub/CV_Site/index.html",
 		"/C/Users/Stephen Willmot/Documents/Web_Development/C - Final Static Website/B2W - Static/index.html",
 		"/C/Users/Stephen Willmot/Documents/GitHub/Web_Agency_Site/assets/js/main.js",
@@ -645,13 +659,7 @@
 		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/id",
 		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/README.md",
 		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.gitignore",
-		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/package.json",
-		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/vagrant/.npmrc",
-		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/vagrant/.bashrc",
-		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/public/index.html",
-		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/action_set_name",
-		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/creator_uid",
-		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/.vagrant/machines/default/virtualbox/index_uuid"
+		"/C/Users/Stephen Willmot/Documents/GitHub/webwarrior/package.json"
 	],
 	"find":
 	{
@@ -723,8 +731,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "node_modules/@angular/core/index.js",
+					"settings":
+					{
+						"buffer_size": 2500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 14505.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

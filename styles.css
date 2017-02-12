@@ -8,4 +8,5 @@ h1 {
   float: left;
   border: 2px solid blue ;
   width: 20%;
+  height: 100vh;
 }
