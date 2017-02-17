@@ -1,6 +1,11 @@
 export class User {
-  id: number;
+  kind: string;
+  etag: string;
+  regionCode: string;
+  totalResults: number;
+  resultsPerPage: number;
+  videoId: string;
+  description: string;
   first_name: string;
-  last_name: string;
-  avatar: string;
+  id: string;
 }

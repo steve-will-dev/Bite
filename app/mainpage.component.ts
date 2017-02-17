@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Http } from '@angular/http';
+import { User } from './shared/models/user'
+import 'rxjs/add/operator/map'
+
 
 @Component({
   selector: 'mainpage',
@@ -9,14 +12,16 @@ import { Http } from '@angular/http';
 
 export class MainpageComponent implements OnInit {
 
+users: User [];
+
+name2 = 'Steve';
+
+
     constructor(private http: Http){}
      ngOnInit(){
        //grab data
-       this.http.get('https://www.googleapis.com/youtube/v3/search?key=AIzaSyCZS8dJi7uYfRGp_-X9dHDvHA3Qbivm1Kg&channelId=UCk0YDYCWGbnY1MJw4XureeQ&part=snippet,id&order=date&maxResults=20')
-       .subscribe(data => {
-         console.log(data.json());
-         
-       });
-
+       this.http.get('https://www.googleapis.com/youtube/v3/videos?id=7lCDEYXw3mM&key=AIzaSyCZS8dJi7uYfRGp_-X9dHDvHA3Qbivm1Kg&fields=items(id,snippet(channelId,title,categoryId),statistics)&part=snippet,statistics')
+       .map(res => res.json().items)
+       .subscribe(users => this.users = users);
      }
 }
