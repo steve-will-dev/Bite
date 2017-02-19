@@ -7,16 +7,36 @@
 
   <div *ngFor="let user of users">
 
-    <div class="col-md-9">
-<h4>{{user.id}}</h4>
-    <iframe width="260" src="https://www.youtube.com/embed/QS3J36XNYYo?ecver=1" frameborder="0" allowfullscreen></iframe>
+    <div class="col-lg-3">
+      <h4>{{user.snippet.title}}</h4>
+      <h4>{{user.snippet.description}}</h4>
+      <a href="#" data-toggle="modal" data-target="#myModal"><img src="{{user.snippet.thumbnails.default.url}}" alt="Mountain View" style="width:304px;height:228px;"></a>
 
-        <iframe width="260" src="https://www.youtube.com/embed/QS3J36XNYYo?ecver=1" frameborder="0" allowfullscreen></iframe>
-          <iframe width="260" src="https://www.youtube.com/embed/QS3J36XNYYo?ecver=1" frameborder="0" allowfullscreen></iframe>
-            <iframe width="260" src="https://www.youtube.com/embed/QS3J36XNYYo?ecver=1" frameborder="0" allowfullscreen></iframe>
-              <iframe width="260" src="https://www.youtube.com/embed/QS3J36XNYYo?ecver=1" frameborder="0" allowfullscreen></iframe>
-                <iframe width="260" src="https://www.youtube.com/embed/QS3J36XNYYo?ecver=1" frameborder="0" allowfullscreen></iframe>
-                  <iframe width="260" src="https://www.youtube.com/embed/QS3J36XNYYo?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+      <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+      <!-- Modal content-->
+<div class="modal-content">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">&times;</button>
+    <h4 class="modal-title">Modal Header</h4>
+  </div>
+  <div class="modal-body">
+    <p>Some text in the modal.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hDKfBKuXjI" frameborder="0" allowfullscreen></iframe>
+ SHOW MORE
+
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+  </div>
+</div>
+
+</div>
+</div>
+
 
     </div>
   </div>

@@ -8,4 +8,6 @@ export class User {
   description: string;
   first_name: string;
   id: string;
+  snippet: string;
+
 }
